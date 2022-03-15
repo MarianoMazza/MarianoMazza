@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Mariano Mazza
 #### How's it going?
-I've got professional experience as a Full-Stack Developer and a Games Developer.
 Technologies I enjoy working with include C#, Java, Javascript, Unity, and more.
 
 - 📫 How to reach me: mazza.mariano@gmail.com | [Linkedin](https://www.linkedin.com/in/mazza-mariano/)
